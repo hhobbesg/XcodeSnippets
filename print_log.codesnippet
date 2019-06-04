@@ -3,21 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mnthrd</string>
+	<string>pnt</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DispatchQueue.main.async {
-            &lt;#code#&gt;
-        }</string>
+	<string>print("* * * &lt;#message#&gt; * * *")</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D2794E90-6865-47A7-A5F9-E152D27046BE</string>
+	<string>8E478AB8-6DF2-49EA-B4EC-6B1E51AD1D7F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>get main thread</string>
+	<string>print log</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
