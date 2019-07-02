@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// - MARK: &lt;#text#&gt;</string>
+	<string>// MARK: - &lt;#text#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D7ABB625-FD33-4A43-9241-BDCAF5D01D48</string>
 	<key>IDECodeSnippetLanguage</key>

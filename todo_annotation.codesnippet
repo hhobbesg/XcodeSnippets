@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// - TODO: &lt;#message#&gt;</string>
+	<string>// TODO: - &lt;#message#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FAD0B591-859B-4429-8520-248DAD06D60B</string>
 	<key>IDECodeSnippetLanguage</key>
